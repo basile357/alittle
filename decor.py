@@ -5,3 +5,6 @@ def a():
 
 def b():
     pass
+
+def c():
+    pass
